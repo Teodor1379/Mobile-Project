@@ -1,0 +1,85 @@
+OPTION_SU=1. Sign Up!
+OPTION_SI=2. Sign In!
+OPTION_GU=3. Be Guest
+OPTION_EA=4. Exit App
+
+
+OPTION_GUEST_ADL=1. Show     Listing
+OPTION_GUEST_SRL=2. Search   Listing
+OPTION_GUEST_STL=3. Stats    Listing
+OPTION_GUEST_BCK=4. Return Back Menu
+
+
+OPTION_USER_ADL=01. Add     Listing
+OPTION_USER_RML=02. Remove  Listing
+OPTION_USER_EDL=03. Edit    Listing
+OPTION_USER_SAL=04. ShowAll Listing
+OPTION_USER_SOL=05. ShowOwn Listing
+OPTION_USER_SBL=06. ShowBuy Listing
+OPTION_USER_SRL=07. Search  Listing
+OPTION_USER_STL=08. Stats   Listing
+OPTION_USER_CRC=09. Create  Channel
+OPTION_USER_SNM=10. Send    Message
+OPTION_USER_VWM=11. View    Message
+OPTION_USER_LOS=12. Log Out of Here
+
+
+
+ENTER_CHOICE=Enter your choice:
+
+
+ENTER_US=Enter username:
+ENTER_EM=Enter email:
+ENTER_PH=Enter phone:
+ENTER_PS=Enter password:
+ENTER_AD=Enter address:
+
+
+ENTER_PRODUCT_E=Enter product name:
+ENTER_PRODUCT_D=Enter product desc:
+ENTER_PRODUCT_N=Enter product numb:
+
+ENTER_CAR_B=Enter car brand    :
+ENTER_CAR_M=Enter car model    :
+ENTER_CAR_C=Enter car color    :
+ENTER_CAR_P=Enter car power    :
+ENTER_CAR_Y=Enter car year     :
+ENTER_CAR_L=Enter car manual   :
+
+ENTER_PART_M=Enter part materials   :
+ENTER_PART_D=Enter part dimensions  :
+
+ENTER_SERVICE_I=Enter service data info :
+ENTER_SERVICE_T=Enter service data time :
+ENTER_SERVICE_C=Enter service data cond :
+
+
+ENTER_LISTING_P=Enter listing price         :
+ENTER_LISTING_T=Enter listing title         :
+ENTER_LISTING_D=Enter listing description   :
+ENTER_LISTING_C=Enter listing category      :
+
+
+ENTER_QR=Enter your query   :
+ENTER_CH=Enter your channel :
+
+
+ENTER_CHAT_USER=Enter chat user     :
+ENTER_CHAT_MESS=Enter chat message  :
+
+
+
+ERROR_COM=Invalid Command       !
+ERROR_ANT=Another User is Logged!
+ERROR_ADU=This UserName is taken!
+ERROR_PFP=Invalid Product Type  !
+ERROR_LSA=Error Adding Listing  !
+ERROR_LSR=Error Removing Listing!
+ERROR_LSU=Error Updating Listing!
+ERROR_CHN=Invalid Channel       !
+ERROR_MSC=You have not messages !
+
+
+
+STATUS_OK=Operation Status: OK! :)
+STATUS_ER=Operation Status: ER! :(
